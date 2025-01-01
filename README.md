@@ -27,6 +27,8 @@
 [<img height="60" width="60" alt="AdGuard" src="https://avatars.githubusercontent.com/u/8361145?s=60">](https://github.com/AdguardTeam)
 [<img height="60" width="60" alt="Dark Reader" src="https://avatars.githubusercontent.com/u/38494721?s=60">](https://github.com/darkreader/darkreader)
 [<img height="60" width="60" alt="GNU Affero General Public License" src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png">](https://www.gnu.org/licenses/agpl-3.0.html)
+[<img height="60" width="60" alt="GNU nano" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/60px-Gnu-nano.svg.png">](https://www.nano-editor.org/)
+[<img height="60" width="60" alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/64px-Visual_Studio_Code_1.35_icon.png">](https://github.com/microsoft/vscode)
 
 and so on...!
 
