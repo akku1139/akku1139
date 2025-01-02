@@ -15,6 +15,8 @@
 [<img height="60" width="60" alt="Gitea" src="https://avatars.githubusercontent.com/u/12724356?s=60">](https://github.com/go-gitea)
 [<img height="60" width="60" alt="Linux" src="https://www.kernel.org/theme/images/logos/tux.png">](https://kernel.org/)
 [<img height="60" width="60" alt="Arch Linux" src="https://avatars.githubusercontent.com/u/4673648?s=60">](https://archlinux.org/)
+[<img height="60" width="60" alt="CachyOS" src="https://avatars.githubusercontent.com/u/85452089?s=60">](https://cachyos.org/)
+[<img height="60" width="60" alt="Chaotic-AUR" src="https://avatars.githubusercontent.com/u/66071775?s=60">](https://aur.chaotic.cx/)
 [<img height="60" width="60" alt="Alpine Linux" src="https://avatars.githubusercontent.com/u/7600810?s=60">](https://www.alpinelinux.org/)
 [<img height="60" width="60" alt="Zsh" src="https://www.zsh.org/color_vertical_icon.png">](https://www.zsh.org/)
 [<img height="60" width="60" alt="Sway" src="https://avatars.githubusercontent.com/u/32400794?s=60">](https://github.com/swaywm)
