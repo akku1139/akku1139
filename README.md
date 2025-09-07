@@ -36,6 +36,7 @@
 [<img height="60" width="60" alt="XMRig" src="https://avatars.githubusercontent.com/u/27528955?s=60">](https://github.com/xmrig/xmrig)
 [<img height="60" width="60" alt="MoneroOcean" src="https://avatars.githubusercontent.com/u/33983510?s=60">](https://github.com/MoneroOcean)
 [<img height="60" width="60" alt="Duolingo" src="https://avatars.githubusercontent.com/u/908687?s=60">](https://www.duolingo.com/)
+[<img height="60" width="60" alt="postmarketOS" src="https://avatars.githubusercontent.com/u/28978999?s=60">](https://postmarketos.org/)
 
 and so on...!
 
