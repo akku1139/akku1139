@@ -1,6 +1,6 @@
 あっくさんだよ。
 
-#### My Favorite
+#### My Favorites
 
 [<img height="60" width="60" alt="TypeScript" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png">](https://github.com/microsoft/typescript)
 [<img height="60" width="60" alt="Hono" src="https://avatars.githubusercontent.com/u/98495527?s=60">](https://github.com/honojs)
