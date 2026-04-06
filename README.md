@@ -1,5 +1,9 @@
 あっくさんだよ。
 
+<a href="https://justuuid.pages.dev/u/bba02ac9-7d98-47a2-ab83-e6f1aee219b5" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/bba02ac9-7d98-47a2-ab83-e6f1aee219b5.svg" alt="UUID Badge" />
+</a>
+
 #### My Favorites
 
 [<img height="60" width="60" alt="TypeScript" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png">](https://github.com/microsoft/typescript)
