@@ -4,6 +4,7 @@
   <img src="https://justuuid.pages.dev/api/badge/u/bba02ac9-7d98-47a2-ab83-e6f1aee219b5.svg" alt="UUID Badge" />
 </a>
 
+<!--
 #### My Favorites
 
 [<img height="60" width="60" alt="TypeScript" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png">](https://github.com/microsoft/typescript)
@@ -43,6 +44,7 @@
 [<img height="60" width="60" alt="postmarketOS" src="https://avatars.githubusercontent.com/u/28978999?s=60">](https://postmarketos.org/)
 
 and so on...!
+-->
 
 #### Access Counter
 
