@@ -46,6 +46,14 @@
 and so on...!
 -->
 
+Who am I?
+
+```yaml
+- One of the Linux developers
+- Japanese version of the Hono documentation (unofficial) maintainer
+- Reverse Engineer
+```
+
 #### Access Counter
 
 ![Moe Counter](https://count.getloli.com/get/@akku1139?theme=rule34&darkmode=0)
