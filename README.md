@@ -11,6 +11,8 @@
 - TypeScript
 - Flute / Piccolo
 - Arch Linux
+- TETR.IO
+- teapot
 - Probably working on something unnecessary
 ```
 
