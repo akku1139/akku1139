@@ -13,6 +13,8 @@
 - Arch Linux
 - TETR.IO
 - teapot
+- Nura (aka postmarketOS)
+- Open Source
 - Probably working on something unnecessary
 ```
 
