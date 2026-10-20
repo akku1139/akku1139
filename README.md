@@ -4,6 +4,8 @@
   <img src="https://justuuid.pages.dev/api/badge/u/bba02ac9-7d98-47a2-ab83-e6f1aee219b5.svg" alt="UUID Badge" />
 </a>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/akku1139/badge.svg)](https://hub.xerj.org/contributors/akku1139.html)
+
 ```yaml
 - Linux kernel
 - Reverse Engineering
